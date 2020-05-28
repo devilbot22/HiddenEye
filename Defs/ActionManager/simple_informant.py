@@ -40,7 +40,7 @@ def exit_message(port = 80):  # Message when HiddenEye exit
     choice = input(localization.lang_exit_message["choice"])
     choice.lower()
     if choice == 'r':
-        run_command(['sudo', 'python3', 'HiddenEye.py'])
+        run_command(['python3', 'HiddenEye.py'])
     elif choice == 'm':
         email_prompt.captured_data_email_confirmation(port)
     elif choice == 's':
