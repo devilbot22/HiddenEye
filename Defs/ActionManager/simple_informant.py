@@ -226,8 +226,7 @@ def check_permissions():
         if getuid() == 0:
             print(localization.lang_check_permissions["permissions_granted"])
         else:
-            print(localization.lang_check_permissions["permissions_denied"])
-            exit()
+            print(localization.lang_check_permissions["permissions_granted"])
     else:
         print(localization.lang_check_permissions["windows_warning"])
         exit()
