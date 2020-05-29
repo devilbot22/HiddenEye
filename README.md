@@ -2,19 +2,19 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center">
-  <img src="logo.png">  
+  <img src="logo.png">
 </p>
 
 <p align="center">
-      Modern Phishing Tool With Advanced Functionality 
+      Modern Phishing Tool With Advanced Functionality
 </p>
 <p align="center">
-     PHISHING | KEYLOGGER | INFORMATION_COLLECTOR | ALL_IN_ONE_TOOL | SOCIALENGINEERING  
+     PHISHING | KEYLOGGER | INFORMATION_COLLECTOR | ALL_IN_ONE_TOOL | SOCIALENGINEERING
 </p>
 
 <p align="center">
   <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" ></a>
-  <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>  
+  <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
   <a href="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye"><img src="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye/badge" alt="CodeFactor" /></a>
   <a href="https://www.codacy.com/manual/DarkSecDevelopers/HiddenEye?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarkSecDevelopers/HiddenEye&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/af9fadca3cfc4de19232d0840988e121"/></a>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye.svg?type=shield"/></a>
@@ -44,7 +44,7 @@ person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 <td>7) endbehavi0r</td>
 <td>8) DarkMidus</td>
 <td>9) ___________</td>
-</tr>        
+</tr>
 <tr>
 <td>https://github.com/An0nUD4Y</td>
 <td>https://github.com/usama7628674</td>
@@ -61,21 +61,21 @@ person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 # AVAILABLE TUNNELLING OPTIONS\*\*
 
 <table border = "1">
-<tr>  
-<td>1) LOCALHOST</td>  
+<tr>
+<td>1) LOCALHOST</td>
 <td>2) LOCALXPOSE</td>
-<td>3) SERVEO</td>     
-<td>4) NGROK</td>     
+<td>3) SERVEO</td>
+<td>4) NGROK</td>
 <td>5) LOCALTUNNEL</td>
-<td>6) OPENPORT</td>   
-<td>7) PAGEKITE</td>   
-</tr>        
+<td>6) OPENPORT</td>
+<td>7) PAGEKITE</td>
+</tr>
 <tr>
 <td>http://localhost</td>
 <td>http://localxpose.io</td>
 <td>http://serveo.net</td>
 <td>http://ngrok.com</td>
-  
+
 <td>http://localtunnel.me</td>
 <td>http://openport.io</td>
 <td>http://pagekite.net</td>
@@ -100,7 +100,7 @@ person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 <details><summary>Click to view OS names</summary>
 <br>
 <ol>
-<b> 
+<b>
 <li>Kali Linux - Rolling Edition</li>
 <li>Parrot OS - Rolling Edition</li>
 <li>Linux Mint - 18.3 Sylvia</li>
@@ -110,7 +110,7 @@ person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 <li>Manjaro XFCE Edition 17.1.12</li>
 <li>Userland App (For Android Users)</li>
 <li>Termux App (For Android Users)</li>
-</b>   
+</b>
 </ol>
 </details>
 
