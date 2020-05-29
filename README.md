@@ -26,14 +26,12 @@
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible in user crime. Using HiddenEye to test/attack any person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
-
-
-
+The illegal and misuse of the HiddenEye & its resources/phishing-pages is
+**COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and
+are NOT responsible in user crime. Using HiddenEye to test/attack any
+person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 
 # DEVELOPERS & CONTRIBUTORS
-
-
 
 <table border = "1">
 <tr>
@@ -60,8 +58,7 @@ The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMP
 </tr>
 </table>
 
-
-# AVAILABLE TUNNELLING OPTIONS**
+# AVAILABLE TUNNELLING OPTIONS\*\*
 
 <table border = "1">
 <tr>  
@@ -85,22 +82,20 @@ The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMP
 </tr>
 </table>
 
-
 # SCREENSHOT (Android-Userland)
+
 ![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
 
-
 ## CREDIT:-
-* Anonud4y ( I don't remember if i have done Anything )
-* Usama ( A Most active Developer)
-* sTiKyt ( Guy Who recustomized everything )
-* UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
-* TheLinuxChoice ( For His Tools Phishing Pages ) 
-* Thewhiteh4t (For Nearyou & Gdrive Location Templates)
 
+- Anonud4y ( I don't remember if i have done Anything )
+- Usama ( A Most active Developer)
+- sTiKyt ( Guy Who recustomized everything )
+- UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
+- TheLinuxChoice ( For His Tools Phishing Pages )
+- Thewhiteh4t (For Nearyou & Gdrive Location Templates)
 
 ### TESTED ON FOLLOWING:-
-
 
 <details><summary>Click to view OS names</summary>
 <br>
@@ -119,9 +114,8 @@ The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMP
 </ol>
 </details>
 
-
-
 ### PREREQUISITES ( Please verify if you have installed )
+
 <details><summary>Click to view required modules</summary>
 <br>
 <ol>
@@ -138,85 +132,115 @@ The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMP
 </details>
 
 # FOUND A BUG ? / HAVE ANY ISSUE ? :- (Read This)
-* Check closed & solved issues/bugs before opening new.
-* Make sure your issue is related to HiddenEye.
-* Respond on your opened issues Else we will close that issue.
-* Do Not Spam or Advertise & Respect Everyone.
+
+- Check closed & solved issues/bugs before opening new.
+- Make sure your issue is related to HiddenEye.
+- Respond on your opened issues Else we will close that issue.
+- Do Not Spam or Advertise & Respect Everyone.
 
 ### WHAT'S NEW FEATURES
+
 **1) LIVE ATTACK**
-- Now you will have live information about the victims such as : IP ADDRESS, Geolocation, ISP, Country, & many more.
+
+- Now you will have live information about the victims such as : IP ADDRESS,
+  Geolocation, ISP, Country, & many more.
 
 **2) COMPATIBILITY**
+
 - All the sites are mobile compatible.
 
 **3) KEYLOGGER**
+
 - Now you will also have the ability to capture all the keystokes of victim.
 - You can now Deploy Keyloggers With (Y/N) option.
 - Major issues fixed.
 
 **4) ANDROID SUPPORT**
-- We care about Android Users, So now we have came with two ways to run HiddenEye in Android Devices.
+
+- We care about Android Users, So now we have came with two ways to run
+  HiddenEye in Android Devices.
 
 **(A) UserLand App**
-- You Have to Download UserLand App. [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To Download it.
-- To read more how to set up userland app Read <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">HERE</a></p> 
+
+- You Have to Download UserLand App.
+  [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To
+  Download it.
+- To read more how to set up userland app Read
+  <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">HERE</a></p>
 
 **(B) Termux App**
-  - You Have to Download Termux App. [Click Here](https://play.google.com/store/apps/details?id=com.termux) To Download it.
-  - For Further instruction [Check Instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
-  - Termux Users Clone With This Command , Unless Errors may occur during Running.
+
+- You Have to Download Termux App.
+  [Click Here](https://play.google.com/store/apps/details?id=com.termux) To
+  Download it.
+- For Further instruction
+  [Check Instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+- Termux Users Clone With This Command , Unless Errors may occur during Running.
+
 ```
 git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
 
 ```
+
 **5) NEW LOOK PROVIDED**
+
 - NOW FOCUS EASILY ON TASKS...
 - CUSTOMIZE APP WITH YOUR OWN THEMES
 
 **6) SERVEO URL TYPE SELECTION AVAILABLE NOW**
+
 - Major issues with serveo is fixed.
 - Now You can choose out of CUSTOM URL and RANDOM URL.
 
 **7) LARGE COLLECTION OF PHISHING PAGES ADDED**
-- Pages are taken from various tool including ShellPhish , Blackeye , SocialFish .
+
+- Pages are taken from various tool including ShellPhish , Blackeye , SocialFish
+  .
 
 **8) CAPTURED DATA BACKUP**
+
 - Backup of Data can be Found At (Server/CapturedData).
 
 **9) EMAIL SUPPORT ADDED**
+
 - Captured Data can be Easily send to Any Email Address (Using Gmail SMTP).
 - It Require User's Gmail Username And Password.
 - GMAIL 2FA SHOULD BE DISABLED IN ORDER TO USE GMAIL SMTP.
-- LESS SECURED APPS SHOULD BE TURNED ON (https://myaccount.google.com/lesssecureapps).
+- LESS SECURED APPS SHOULD BE TURNED ON
+  (https://myaccount.google.com/lesssecureapps).
 
 **10) CUSTOM TEMPLATES ADDED**
+
 - Two Extra Custom Templates Added.
 - Now Create Your Templates.
 - Check Instructions At ( Webpages/CUSTOM/manual.txt )
 
 **11) TOOLS ADDED**
 
-**A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks To https://github.com/thewhiteh4t/seeker)**
-  - NEAR YOU (By @thewhiteh4t )
-  - GDRIVE (By @thewhiteh4t)
+**A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks
+To https://github.com/thewhiteh4t/seeker)**
+
+- NEAR YOU (By @thewhiteh4t )
+- GDRIVE (By @thewhiteh4t)
 
 <!--
 Remove this link,
 Reason: This video has been removed for violating YouTube's Terms of Service.""
 ## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
 -->
+
 ## Installation Instructions For Linux/Android - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 
 ## BACKUP REPOSITORY AVAILABLE AT GITLAB - [(CHECK HERE)](https://gitlab.com/an0nud4y/HiddenEye)
+
 </p>
 
 <h3>Ascii error fix</h3>
 
- `dpkg-reconfigure locales`
+`dpkg-reconfigure locales`
 
- `Then select: "All locales" Then select "en_US.UTF-8"`
+`Then select: "All locales" Then select "en_US.UTF-8"`
 
-  `After that reboot your machine. Then open terminal and run the command: "locale"`
+`After that reboot your machine. Then open terminal and run the command: "locale"`
 
-  `There you will see "en_US.UTF-8" which is the default language. Instead of POSIX.`
+`There you will see "en_US.UTF-8" which is the default language. Instead of POSIX.`
