@@ -26,31 +26,65 @@
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this software to test person or company without **WRITTEN PERMISSION** from them.
+The illegal and misuse of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible in user crime. Using HiddenEye to test/attack any person/company without **WRITTEN PERMISSION** is **ILLEGAL**.
 
 
 
 
 # DEVELOPERS & CONTRIBUTORS
 
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
-6) Moltivie (https://github.com/Moltivie)
-7) endbehavi0r (https://github.com/endbehavi0r)
-8) DarkMidus (https://github.com/DarkMidus)
-8) ___________ (WAITING FOR YOU)
+
+
+<table border = "1">
+<tr>
+<td>1) ANONUD4Y</td>
+<td>2) USAMA ABDUL SATTAR</td>
+<td>3) sTiKyt</td>
+<td>4) UNDEADSEC</td>
+<td>5) Micrafast</td>
+<td>6) Moltivie</td>
+<td>7) endbehavi0r</td>
+<td>8) DarkMidus</td>
+<td>9) ___________</td>
+</tr>        
+<tr>
+<td>https://github.com/An0nUD4Y</td>
+<td>https://github.com/usama7628674</td>
+<td>https://github.com/sTiKyt</td>
+<td>https://github.com/UndeadSec</td>
+<td>https://github.com/Micrafast</td>
+<td>https://github.com/Moltivie</td>
+<td>https://github.com/endbehavi0r</td>
+<td>https://github.com/DarkMidus</td>
+<td>WAITING FOR YOU</td>
+</tr>
+</table>
+
 
 # AVAILABLE TUNNELLING OPTIONS**
-0) LOCALHOST 
-1) LOCALXPOSE (https://localxpose.io)
-2) SERVEO (https://serveo.net/)
-3) NGROK (https://ngrok.com/)
-4) LOCALTUNNEL (Package Version) (https://localtunnel.me)
-5) OPENPORT (https://openport.io/)
-6) PAGEKITE (https://pagekite.net/)
+
+<table border = "1">
+<tr>  
+<td>1) LOCALHOST</td>  
+<td>2) LOCALXPOSE</td>
+<td>3) SERVEO</td>     
+<td>4) NGROK</td>     
+<td>5) LOCALTUNNEL</td>
+<td>6) OPENPORT</td>   
+<td>7) PAGEKITE</td>   
+</tr>        
+<tr>
+<td>http://localhost</td>
+<td>http://localxpose.io</td>
+<td>http://serveo.net</td>
+<td>http://ngrok.com</td>
+  
+<td>http://localtunnel.me</td>
+<td>http://openport.io</td>
+<td>http://pagekite.net</td>
+</tr>
+</table>
+
 
 # SCREENSHOT (Android-Userland)
 ![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
@@ -64,30 +98,49 @@ The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBI
 * TheLinuxChoice ( For His Tools Phishing Pages ) 
 * Thewhiteh4t (For Nearyou & Gdrive Location Templates)
 
+
 ### TESTED ON FOLLOWING:-
-* **Kali Linux - Rolling Edition**
-* **Parrot OS - Rolling Edition**
-* **Linux Mint - 18.3 Sylvia**
-* **Ubuntu - 16.04.3 LTS**
-* **MacOS High Sierra**
-* **Arch Linux**
-* **Manjaro XFCE Edition 17.1.12**
-* **Black Arch**
-* **Userland App (For Android Users)**
-* **Termux App (For Android Users)**
+
+
+<details><summary>Click to view OS names</summary>
+<br>
+<ol>
+<b> 
+<li>Kali Linux - Rolling Edition</li>
+<li>Parrot OS - Rolling Edition</li>
+<li>Linux Mint - 18.3 Sylvia</li>
+<li>Ubuntu - 16.04.3 LTS</li>
+<li>MacOS High Sierra</li>
+<li>Arch Linux</li>
+<li>Manjaro XFCE Edition 17.1.12</li>
+<li>Userland App (For Android Users)</li>
+<li>Termux App (For Android Users)</li>
+</b>   
+</ol>
+</details>
+
 
 
 ### PREREQUISITES ( Please verify if you have installed )
-* Python 3.*
-* PHP
-* sudo
-* pyngrok
+<details><summary>Click to view required modules</summary>
+<br>
+<ol>
+<li>Python 3.*</li>
+<li>PHP</li>
+<li>sudo</li>
+<li>pyngrok</li>
+<li>MacOS High Sierra</li>
+<li>Arch Linux</li>
+<li>Manjaro XFCE Edition 17.1.12</li>
+<li>Userland App (For Android Users)</li>
+<li>Termux App (For Android Users)</li>
+</ol>
+</details>
 
 # FOUND A BUG ? / HAVE ANY ISSUE ? :- (Read This)
 * Check closed & solved issues/bugs before opening new.
-* Make sure your issue is related to the codes and resources of this repository.
-* Its your responsibility to response on your opened issues.
-* If we don't found user response on his/her issue in the particular time interval , Then we have to close that issue.
+* Make sure your issue is related to HiddenEye.
+* Respond on your opened issues Else we will close that issue.
 * Do Not Spam or Advertise & Respect Everyone.
 
 ### WHAT'S NEW FEATURES
@@ -147,9 +200,13 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
 **A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks To https://github.com/thewhiteh4t/seeker)**
   - NEAR YOU (By @thewhiteh4t )
   - GDRIVE (By @thewhiteh4t)
+
+<!--
+Remove this link,
+Reason: This video has been removed for violating YouTube's Terms of Service.""
 ## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
- 
-## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+-->
+## Installation Instructions For Linux/Android - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 
 ## BACKUP REPOSITORY AVAILABLE AT GITLAB - [(CHECK HERE)](https://gitlab.com/an0nud4y/HiddenEye)
 </p>
