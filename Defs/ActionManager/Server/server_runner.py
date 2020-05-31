@@ -7,7 +7,7 @@
 
 
 from Defs.ImportManager.unsorted_will_be_replaced import run_command, run_background_command, wait, ngrok, requests, \
-    regular_expression, check_output, CalledProcessError, chdir, chmod, DEVNULL, PIPE
+    regular_expression, check_output, CalledProcessError, chdir, chmod, DEVNULL, PIPE, path
 import Defs.ThemeManager.theme as theme
 import Defs.ActionManager.Server.server_menu as server_menu
 import Defs.ActionManager.simple_informant as simple_informant
@@ -83,6 +83,8 @@ def start_localhost(port):
 
 
 def start_ngrok(port):
+    ngrok.DEFAULT_CONFIG_PATH = ".config/ngrok.yml"
+    # ngrok.set_auth_token("<NGROK_AUTH_TOKEN>") # Will be easier to input later
     run_command(['killall', '-2', 'ngrok'], stdout=DEVNULL, stderr=DEVNULL)
     run_command('clear')
     # print('''
@@ -97,7 +99,7 @@ def start_ngrok(port):
     # run_command(['./Server/ngrok http {0}'.format(port)], stdout=DEVNULL, stderr=DEVNULL)
     ##chmod('Server', 0o777)
     ##run_command(['Server/ngrok', 'http {0}'.format(port)],stdout=DEVNULL, stderr=DEVNULL)
-    ngrok.connect(port)
+    ngrok.connect(port=int(port))
     # currentDirectory = os.getcwd() #DELETE
     # print(currentDirectory) #DELETE
     while True:
