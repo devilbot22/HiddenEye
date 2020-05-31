@@ -24,7 +24,7 @@ languageSelector()
 checkConnection()
 verCheck()
 checkPHP()
-checkLocalxpose()
+#checkLocalxpose() Localxpose doesn't supports termux
 checkNgrok()
 checkOpenport()
 checkPagekite()
